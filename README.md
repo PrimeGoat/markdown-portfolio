@@ -7,4 +7,5 @@
 * Server Setup
 * Linux/*NIX Administration
 * Network and Server Security
+* Virtualization
 * Full-Stack Web Development
