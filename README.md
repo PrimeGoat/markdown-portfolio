@@ -8,4 +8,5 @@
 * Linux/*NIX Administration
 * Network and Server Security
 * Virtualization
+* Graphics Design
 * Full-Stack Web Development
