@@ -1,2 +1,10 @@
 ![DENIS SAVGIR](images/denis-savgir-logo.png)
-# DENIS SAVGIR - IT SOLUTIONS -
+# - IT SOLUTIONS  -
+
+* Custom Built PCs
+* Hardware and Software Troubleshooting
+* Network Setup
+* Server Setup
+* Linux/*NIX Administration
+* Network and Server Security
+* Full-Stack Web Development
